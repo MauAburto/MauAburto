@@ -17,6 +17,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauAburto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauAburto&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MauAburto&layout=compact&theme=tokyonight&hide_border=true)
